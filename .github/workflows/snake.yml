@@ -13,8 +13,6 @@ on:
     branches:
     - master
     
-  
-
 jobs:
   generate:
     runs-on: ubuntu-latest
