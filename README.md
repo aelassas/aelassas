@@ -1,4 +1,4 @@
-The contributions that this snake eats are updated automatically every 24h.
+The contributions that this snake eats are automatically updated once every 24h.
 ![snake](https://raw.githubusercontent.com/aelassas/aelassas/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![snake](https://raw.githubusercontent.com/aelassas/aelassas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
