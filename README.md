@@ -1,8 +1,8 @@
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aelassas/aelassas/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aelassas/aelassas/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aelassas/aelassas/output/github-snake.svg" />
-</picture>
+</picture>-->
 
 I was born and raised in Casablanca, Morocco. I was passioned about computing since an early age. I studied in France where I got a master degree in software engineering in 2010. I started programming with Basic on my TI-92, then OCaml in high school, then C, C++, Lisp and Java in engineering school, then C# and JavaScript at work. I worked as a full stack software engineer in France for a few years. After more than 8 years in France, I went back to my hometown. I built different software products for telecommunication companies around video on demand, automation and workflow management. I have a strong background on Media Asset Management and Digital Asset Management systems. I work with Node, React, React Native, C# and .NET. I also worked with other languages and other technologies. I like to discover new tools and frameworks. I can learn fast and produce high quality code before deadline.
 
