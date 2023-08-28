@@ -4,7 +4,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/aelassas/aelassas/output/github-snake.svg" />
 </picture>-->
 
-As Chief Technology Officer at Teradev, I develop innovative and scalable solutions for digital media and e-commerce. With more than 13 years of software engineering experience, I have a strong background in web, mobile and desktop development, as well as media asset management and digital asset management systems.
+As Chief Technology Officer at Teradev, I develop innovative and scalable solutions for digital media and e-commerce. With over 13 years of software engineering experience, I have a strong background in web, mobile and desktop development, as well as media asset management and digital asset management systems.
 
 My strengths lie in the development of innovative solutions and the ability to adapt them to different sectors looking to streamline or automate their work processes or data management.
 
