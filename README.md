@@ -21,7 +21,6 @@ After over 8 years in France, I went back to my hometown and worked as a freelan
 * [wexCommerce](https://github.com/aelassas/wexcommerce): eCommerce Platform on Next.js
   
 ##### WORKING ON
-* [Movinin](https://github.com/aelassas/movinin): Property Rental Platform with Mobile App
-
+* [Movinin](https://github.com/aelassas/movinin): Rental Property Management Platform with Mobile App
 #
 If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or [Linkedin](https://www.linkedin.com/in/aelassas/).
