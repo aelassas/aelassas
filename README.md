@@ -8,7 +8,7 @@ As Chief Technology Officer at Teradev, I develop innovative and scalable soluti
 
 My strength lies in the development of innovative solutions and the ability to adapt them to different industries looking to streamline or automate their work process or data management.
 
-I am passionate about learning new technologies and frameworks and applying them to solve complex and challenging problems. I am proficient in working with Node.js, React, React Native, C# and .NET among other languages and tools. I also have experience integrating and developing e-commerce platforms and cloud services. My ultimate aim is to deliver high-quality software products that meet the requirements and expectations of our customers and users.
+I am passionate about learning new technologies and frameworks and applying them to solve complex and challenging problems. I am proficient in working with Node.js, React, React Native, TypeScript, C# and .NET among other languages and tools. I also have experience integrating and developing e-commerce platforms and cloud services. My ultimate aim is to deliver high-quality software products that meet the requirements and expectations of our customers and users.
 
 After obtaining a master's degree in software engineering in France in 2010, I worked in the suburbs of Paris as a software engineer at Mediatvcom, a company specializing in broadcasting, digital television, and new technologies. My job required me to lead a team of developers to create scalable turnkey solutions that met clients' particular needs.
 
