@@ -14,7 +14,7 @@ After obtaining a master's degree in software engineering in France in 2010, I w
 
 After over 8 years in France, I went back to my hometown and worked as a freelance software engineer for various companies, including Cristalys, a platform that employs machine learning models to assist asset managers, insurers, WMAs, and private bankers; Workiom, a cloud-based all-in-one business solution; Creative Labs, a digital marketing agency based in Casablanca; the Moroccan Ministry of Energy, Mines, and Environment; and other clients. I built various software products and applications for these clients, including native Node.js modules for Cristalys, a cross-platform workflow engine for Workiom, native Android apps, a set of tools that automate media fetching and distribution to YouTube, and other mobile and web-based tools and applications for other clients.
 
-**OPEN SOURCE PROJECTS**
+##### OPEN SOURCE PROJECTS
 * [Wexflow](https://github.com/aelassas/wexflow): .NET Workflow Engine and Automation Platform
 * [BookCars](https://github.com/aelassas/bookcars): Car Rental Platform with Mobile App
 * [Movin' In](https://github.com/aelassas/movinin): Rental Property Management Platform with Mobile App
