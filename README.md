@@ -10,10 +10,6 @@ My strength lies in the development of innovative solutions and the ability to a
 
 I am passionate about learning new technologies and frameworks and applying them to solve complex and challenging problems. I am proficient in working with Node.js, React, React Native, TypeScript, C# and .NET among other languages and tools. My ultimate aim is to deliver high-quality software products that meet the requirements and expectations of our customers and users.
 
-After obtaining a master's degree in software engineering in France in 2010, I worked in the suburbs of Paris as a software engineer at Mediatvcom, a company specializing in broadcasting, digital television, and new technologies. My job required me to lead a team of developers to create scalable turnkey solutions that met clients' particular needs.
-
-After over 8 years in France, I went back to my hometown and worked as a freelance software engineer for various companies, including Cristalys, a platform that employs machine learning models to assist asset managers, insurers, WMAs, and private bankers; Workiom, a cloud-based all-in-one business solution; Creative Labs, a digital marketing agency based in Casablanca; the Moroccan Ministry of Energy, Mines, and Environment; and other clients. I built various software products and applications for these clients, including native Node.js modules for Cristalys, a cross-platform workflow engine for Workiom, native Android apps, a set of tools that automate media fetching and distribution to YouTube, and other mobile and web-based tools and applications for other clients.
-
 ##### OPEN SOURCE PROJECTS
 * [Wexflow](https://github.com/aelassas/wexflow): .NET Workflow Engine and Automation Platform
 * [BookCars](https://github.com/aelassas/bookcars): Car Rental Platform with Mobile App
