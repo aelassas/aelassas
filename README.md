@@ -19,5 +19,9 @@ I am passionate about learning new technologies and frameworks and applying them
 * [Wexstream](https://github.com/aelassas/wexstream): Video Conferencing Platform
 * [wexCommerce](https://github.com/aelassas/wexcommerce): eCommerce Platform on Next.js
 
+##### ARTICLES
+* [Functional Programming in C#](https://github.com/aelassas/functional-cs)
+* [Functional Programming in TypeScript](https://github.com/aelassas/functional-ts)
+
 #
 If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or [Linkedin](https://www.linkedin.com/in/aelassas/).
