@@ -10,18 +10,18 @@ My strength lies in the development of innovative solutions and the ability to a
 
 I am passionate about learning new technologies and frameworks and applying them to solve complex and challenging problems. I am proficient in working with Node.js, React, React Native, TypeScript, C# and .NET among other languages and tools. My ultimate aim is to deliver high-quality software products that meet the requirements and expectations of our customers.
 
-##### LATEST PROJECT
-* [Movin' In](https://github.com/aelassas/movinin): Rental Property Management Platform with Mobile App
-
 ##### OPEN SOURCE PROJECTS
 * [Wexflow](https://github.com/aelassas/wexflow): .NET Workflow Engine and Automation Platform
 * [BookCars](https://github.com/aelassas/bookcars): Car Rental Platform with Mobile App
+* [Movin' In](https://github.com/aelassas/movinin): Rental Property Management Platform with Mobile App
 * [Wexstream](https://github.com/aelassas/wexstream): Video Conferencing Platform
 * [wexCommerce](https://github.com/aelassas/wexcommerce): eCommerce Platform on Next.js
 
 ##### ARTICLES
-* [Functional Programming in C#](https://github.com/aelassas/functional-cs)
-* [Functional Programming in TypeScript](https://github.com/aelassas/functional-ts)
+* [Functional Programming in C#](https://www.codeproject.com/Articles/5370282/Functional-Programming-in-Csharp-2)
+* [Functional Programming in TypeScript](https://www.codeproject.com/Articles/5370374/Functional-Programming-in-TypeScript)
+* [Video Streaming Server with Node.js and Koa](https://www.codeproject.com/Articles/5350209/Video-Streaming-Server-with-Node-js-and-Koa)
+* [Build Your Own nodemon in Few Lines of Code](https://www.codeproject.com/Tips/5350523/Build-Your-Own-nodemon-in-Few-Lines-of-Code)
 
 #
 If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or [Linkedin](https://www.linkedin.com/in/aelassas/).
