@@ -25,4 +25,4 @@ I am passionate about learning new technologies and frameworks and applying them
 * [Microservices using ASP.NET Core 8, Ocelot, MongoDB and JWT](https://www.codeproject.com/Articles/5370795/Microservices-using-ASP-NET-Core-8-Ocelot-MongoDB)
 
 #
-If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or [Linkedin](https://www.linkedin.com/in/aelassas/).
+If you'd like to discuss any sort of opportunity, feel free to contact me through [Linkedin](https://www.linkedin.com/in/aelassas/).
