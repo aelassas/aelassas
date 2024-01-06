@@ -27,4 +27,4 @@ I am passionate about learning new technologies and frameworks and applying them
 * [Test-Driven Development in C#](https://www.codeproject.com/Articles/5374061/Test-Driven-Development-in-Csharp)
 
 #
-If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or [Linkedin](https://www.linkedin.com/in/aelassas/).
+If you'd like to discuss any sort of opportunity, feel free to contact me through [Linkedin](https://www.linkedin.com/in/aelassas/).
