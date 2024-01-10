@@ -4,7 +4,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/aelassas/aelassas/output/github-snake.svg" />
 </picture>-->
 
-I develop innovative and scalable solutions for digital media. With several years of software engineering experience, I have a strong background in web, mobile and desktop development, as well as media asset management and digital asset management systems.
+I build innovative and scalable solutions for digital media. With several years of software engineering experience, I have a strong background in web, mobile and desktop development, as well as media asset management and digital asset management systems.
 
 My strength lies in the development of innovative solutions and the ability to adapt them to different industries looking to streamline or automate their work process or data management.
 
