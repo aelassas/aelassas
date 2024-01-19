@@ -12,7 +12,7 @@ My strength lies in the development of innovative solutions and the ability to a
 I am passionate about learning new technologies and frameworks and applying them to solve complex and challenging problems. I am proficient in working with Node.js, React, React Native, TypeScript, C# and .NET among other languages and tools. My ultimate aim is to deliver high-quality software products that meet the requirements and expectations of our customers.
 -->
 
-##### OPEN SOURCE PROJECTS
+##### PROJECTS
 * [Wexflow](https://github.com/aelassas/wexflow): .NET Workflow Engine and Automation Platform
 * [BookCars](https://github.com/aelassas/bookcars): Car Rental Platform with Mobile App
 * [Movin' In](https://github.com/aelassas/movinin): Rental Property Management Platform with Mobile App
