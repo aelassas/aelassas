@@ -25,7 +25,7 @@ I am passionate about learning new technologies and frameworks and applying them
 * [Test-Driven Development in C#](https://www.codeproject.com/Articles/5374061/Test-Driven-Development-in-Csharp)
 
 ##### AWARDS
-* Microsoft Community Contributor - 2011
+* Microsoft Community Contributor - Microsoft - 2011
 * Most Valuable Professional - CodeProject - 2020
 * Most Valuable Professional - CodeProject - 2023
 * Most Valuable Professional - CodeProject - 2024
