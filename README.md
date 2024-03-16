@@ -29,6 +29,7 @@ I am passionate about learning new technologies and frameworks and applying them
 * Most Valuable Professional - CodeProject - 2020
 * Most Valuable Professional - CodeProject - 2023
 * Most Valuable Professional - CodeProject - 2024
-
+<!--
 #
 If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or [LinkedIn](https://www.linkedin.com/in/aelassas/).
+-->
