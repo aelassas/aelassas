@@ -24,11 +24,17 @@ I am passionate about learning new technologies and frameworks and applying them
 * [Microservices using ASP.NET Core 8, Ocelot, MongoDB and JWT](https://www.codeproject.com/Articles/5370795/Microservices-using-ASP-NET-Core-8-Ocelot-MongoDB)
 * [Test-Driven Development in C#](https://www.codeproject.com/Articles/5374061/Test-Driven-Development-in-Csharp)
 
+##### BOOKS
+* [Light of Truth (Ebook - English)](https://www.buymeacoffee.com/aelassas/e/233722)
+* [Light of Truth (Ebook - French)](https://www.buymeacoffee.com/aelassas/e/233726)
+* [Light of Truth (Paperback - French)](https://www.amazon.com/Lumieres-Verites-El-Assas-Akram/dp/2414299002)
+
 ##### AWARDS
 * Microsoft Community Contributor - Microsoft - 2011
 * Most Valuable Professional - CodeProject - 2020
 * Most Valuable Professional - CodeProject - 2023
 * Most Valuable Professional - CodeProject - 2024
+
 <!--
 #
 If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or [LinkedIn](https://www.linkedin.com/in/aelassas/).
