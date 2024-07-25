@@ -12,7 +12,7 @@ I am passionate about learning new technologies and frameworks and applying them
 
 ##### WORKING ON
 * [ohmjet.com](https://ohmjet.com): OhmJet is community based electric vehicle charging ecosystem. The company was established in 2024 year in Western Balkans. OhmJet aims to make EV charging more affordable and scalable. The company was founded by programmers, engineers, fintech, and marketing professionals who could not imagine life without electric vehicles. OhmJet combines financial technology and electronic engineering under the one hood.
-* [bookcars.gr](https://bookcars.gr): A car rental aggregator in Greece. The website provides more than 50+ suppliers and +8000 car deals.
+* [bookcars.gr](https://bookcars.gr): A car rental aggregator in Greece. The website provides more than 50+ suppliers and 8000+ car deals.
 ##### PROJECTS
 * [Wexflow](https://github.com/aelassas/wexflow): .NET Workflow Engine and Automation Platform
 * [BookCars](https://github.com/aelassas/bookcars): Car Rental Platform with Mobile App
