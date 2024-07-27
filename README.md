@@ -8,12 +8,6 @@ I build innovative and scalable solutions for digital media. With several years 
 
 My strength lies in the development of innovative solutions and the ability to adapt them to different industries looking to streamline or automate their work process or data management.
 
-I am passionate about learning new technologies and frameworks and applying them to solve complex and challenging problems. I am proficient in working with Node.js, React, React Native, TypeScript, C# and .NET among other languages and tools. My ultimate aim is to deliver high-quality software products that meet the requirements and expectations of our customers.
-
-##### WORKING ON
-* [ohmjet.com](https://ohmjet.com): OhmJet is community based electric vehicle charging ecosystem. The company was established in 2024 year in Western Balkans. OhmJet aims to make EV charging more affordable and scalable. The company was founded by programmers, engineers, fintech, and marketing professionals who could not imagine life without electric vehicles. OhmJet combines financial technology and electronic engineering under the one hood.
-* [bookcars.gr](https://bookcars.gr): A car rental aggregator in Greece. The website provides more than 50+ suppliers and 8000+ car deals.
-
 ##### PROJECTS
 * [Wexflow](https://github.com/aelassas/wexflow): .NET Workflow Engine and Automation Platform
 * [BookCars](https://github.com/aelassas/bookcars): Car Rental Platform with Mobile App
