@@ -33,7 +33,5 @@ My strength lies in the development of innovative solutions and the ability to a
 * Most Valuable Professional - CodeProject - 2023
 * Most Valuable Professional - CodeProject - 2024
 
-<!--
 #
-If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or [LinkedIn](https://www.linkedin.com/in/aelassas/).
--->
+If you'd like to discuss any sort of opportunity, feel free to contact me through [LinkedIn](https://www.linkedin.com/in/aelassas/).
