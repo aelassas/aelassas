@@ -13,7 +13,7 @@ My strength lies in the development of innovative solutions and the ability to a
 * [BookCars](https://github.com/aelassas/bookcars): Car Rental Platform with Mobile App
 * [Movin' In](https://github.com/aelassas/movinin): Rental Property Management Platform with Mobile App
 * [Wexstream](https://github.com/aelassas/wexstream): Video Conferencing Platform
-* [wexCommerce](https://github.com/aelassas/wexcommerce): eCommerce Platform on Next.js
+* [wexCommerce](https://github.com/aelassas/wexcommerce): eCommerce Platform
 
 ##### ARTICLES
 * [Functional Programming in C#](https://www.codeproject.com/Articles/5370282/Functional-Programming-in-Csharp-2)
