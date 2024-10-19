@@ -20,7 +20,7 @@ My strength lies in the development of innovative solutions and the ability to a
 * [Test-Driven Development in C#](https://github.com/aelassas/tdd)
 * [Functional Programming in TypeScript](https://github.com/aelassas/functional-ts)
 * [Build Your Own nodemon in Few Lines of Code](https://github.com/aelassas/watcher)
-* [Microservices using ASP.NET Core, Ocelot, MongoDB and JWT](https://www.codeproject.com/Articles/5370795/Microservices-using-ASP-NET-Core-Ocelot-MongoDB-an)
+* [Microservices using ASP.NET Core, Ocelot, MongoDB and JWT](https://github.com/aelassas/microservices)
 
 ##### BOOKS
 * [Light of Truth (Ebook - English)](https://www.buymeacoffee.com/aelassas/e/233722)
