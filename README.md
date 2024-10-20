@@ -12,7 +12,7 @@ My strength lies in the development of innovative solutions and the ability to a
 * [Wexflow](https://github.com/aelassas/wexflow): .NET Workflow Engine and Automation Platform
 * [BookCars](https://github.com/aelassas/bookcars): Car Rental Platform with Mobile App
 * [Movin' In](https://github.com/aelassas/movinin): Rental Property Management Platform with Mobile App
-* [wexCommerce](https://github.com/aelassas/wexcommerce): Minimalistic but Powerful eCommerce Platform
+* [wexCommerce](https://github.com/aelassas/wexcommerce): Minimalistic and Powerful eCommerce Platform
 * [Wexstream](https://github.com/aelassas/wexstream): Video Conferencing Platform
 
 ##### ARTICLES
