@@ -4,16 +4,18 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/aelassas/aelassas/output/github-snake.svg" />
 </picture>-->
 
-I build innovative and scalable solutions for digital media. With several years of software engineering experience, I have a strong background in web, mobile and desktop development, as well as media asset management and digital asset management systems.
+I specialize in crafting innovative, scalable solutions for digital media, backed by years of software engineering expertise. My comprehensive experience spans web, mobile, and desktop development, with particular focus on media and digital asset management systems.
 
-My strength lies in the development of innovative solutions and the ability to adapt them to different industries looking to streamline or automate their work process or data management.
+My core strength is developing forward-thinking solutions that adapt across industries, helping organizations modernize their workflows and optimize data management. I transform complex business challenges into streamlined, automated processes that drive efficiency and growth.
 
-##### PROJECTS
+##### OPEN-SOURCE PROJECTS
 * [Wexflow](https://github.com/aelassas/wexflow): .NET Workflow Engine and Automation Platform
 * [BookCars](https://github.com/aelassas/bookcars): Car Rental Platform with Mobile App
 * [Movin' In](https://github.com/aelassas/movinin): Rental Property Management Platform with Mobile App
 * [wexCommerce](https://github.com/aelassas/wexcommerce): Minimalistic and Powerful eCommerce Platform
 * [Wexstream](https://github.com/aelassas/wexstream): Video Conferencing Platform
+
+If these open-source projects have been helpful in your work, consider supporting their continued development and maintenance. You can contribute through [GitHub Sponsorship](https://github.com/sponsors/aelassas) (one-time or monthly), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://buymeacoffee.com/aelassas). Even a simple star on the GitHub repository helps spread the word and is greatly appreciated.
 
 ##### ARTICLES
 * [Functional Programming in C#](https://github.com/aelassas/functional-cs)
