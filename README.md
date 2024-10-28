@@ -9,6 +9,8 @@ I craft innovative and scalable solutions for digital media, leveraging years of
 My key strength is creating forward-thinking solutions that adapt across industries, enabling organizations to streamline and automate their work process or data management.
 
 ##### OPEN-SOURCE PROJECTS
+I am the creator and maintainer of the following open-source projects:
+
 * [Wexflow](https://github.com/aelassas/wexflow): .NET Workflow Engine and Automation Platform
 * [BookCars](https://github.com/aelassas/bookcars): Car Rental Platform with Mobile App
 * [Movin' In](https://github.com/aelassas/movinin): Rental Property Management Platform with Mobile App
