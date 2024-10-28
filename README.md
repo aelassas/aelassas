@@ -17,7 +17,7 @@ My core strength is developing forward-thinking solutions that adapt across indu
 
 Launch your own customizable digital marketplace - whether it's an eCommerce website, car rental platform, or property rental system - with the Docker-based setups provided. Each platform comes with demo links, comprehensive documentation, Stripe payment integration, and runs efficiently on just 1GB of RAM. Deploy your business for less than $5 monthly on cloud providers like [Hetzner](https://www.hetzner.com/cloud/) or [DigitalOcean](https://www.digitalocean.com/pricing/droplets), making these platforms perfect for entrepreneurs seeking scalable and cost-effective solutions.
 
-If my open-source projects have been helpful in your work, consider supporting their continued development and maintenance. You can contribute through [GitHub Sponsorship](https://github.com/sponsors/aelassas) (one-time or monthly), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://buymeacoffee.com/aelassas). Even a simple star on the GitHub repository helps spread the word and is greatly appreciated.
+I invested significant time and effort into building these open-source project to make them freely available to the community. If these open-source projects have been helpful in your work, consider supporting their continued development and maintenance. You can contribute through [GitHub Sponsorship](https://github.com/sponsors/aelassas) (one-time or monthly), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://buymeacoffee.com/aelassas). Even a simple star on the GitHub repository helps spread the word and is greatly appreciated.
 
 ##### ARTICLES
 * [Functional Programming in C#](https://github.com/aelassas/functional-cs)
