@@ -33,6 +33,9 @@ I invested significant time and effort into building these open-source projects 
 
 ##### AWARDS
 * Microsoft Community Contributor - Microsoft - 2011
+* Best overall article of November 2012 - CodeProject - 2012
+* Best C# Article of December 2016 - CodeProject - 2016
+* Best C# Article of January 2017 - CodeProject - 2017
 * Most Valuable Professional - CodeProject - 2020
 * Most Valuable Professional - CodeProject - 2023
 * Most Valuable Professional - CodeProject - 2024
