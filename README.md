@@ -4,9 +4,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/aelassas/aelassas/output/github-snake.svg" />
 </picture>-->
 
-I specialize in crafting innovative and scalable solutions for digital media, backed by years of software engineering expertise. My comprehensive experience spans web, mobile, and desktop development, with particular focus on media and digital asset management systems.
+I craft innovative and scalable solutions for digital media, leveraging years of software engineering expertise. My comprehensive experience spans web, mobile and desktop development, with particular focus on media and digital asset management systems.
 
-My core strength is developing forward-thinking solutions that adapt across industries, helping organizations modernize their workflows and optimize data management. I transform complex business challenges into streamlined, automated processes that drive efficiency and growth.
+My key strength is creating forward-thinking solutions that adapt across industries, enabling organizations to streamline and automate their work process or data management.
 
 ##### OPEN-SOURCE PROJECTS
 * [Wexflow](https://github.com/aelassas/wexflow): .NET Workflow Engine and Automation Platform
