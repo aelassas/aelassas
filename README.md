@@ -50,6 +50,7 @@ I invested significant time and effort into building these open-source projects 
 * Most Valuable Professional - CodeProject - 2020
 * Most Valuable Professional - CodeProject - 2023
 * Most Valuable Professional - CodeProject - 2024
+* Top JavaScript author - dev.to - 2024
 
 #
 If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or [LinkedIn](https://www.linkedin.com/in/aelassas/).
