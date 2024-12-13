@@ -34,7 +34,6 @@ I invested significant time and effort into building these open-source projects 
 
 * [Light of Truth (Ebook - English)](https://www.buymeacoffee.com/aelassas/e/233722)
 * [Light of Truth (Ebook - French)](https://www.buymeacoffee.com/aelassas/e/233726)
-* [Light of Truth (Paperback - French)](https://www.amazon.com/Lumieres-Verites-El-Assas-Akram/dp/2414299002)
 
 ##### AWARDS
 
