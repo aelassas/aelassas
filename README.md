@@ -10,7 +10,7 @@ My key strength is creating forward-thinking solutions that adapt across industr
 
 ##### OPEN-SOURCE PROJECTS
 
-I am the creator and maintainer of these open-source projects:
+I am the creator and maintainer of the following open-source projects:
 
 * [Wexflow](https://github.com/aelassas/wexflow): .NET Workflow Engine and Automation Platform
 * [BookCars](https://github.com/aelassas/bookcars): Car Rental Platform with Mobile App
