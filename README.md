@@ -33,7 +33,7 @@ I invested significant time and effort into building these open-source projects 
 ##### BOOKS
 
 * [Light of Truth (Free eBook - English)](https://aelassas.github.io/books/949812_LCL_LIV_EN.pdf)
-* [Lumières de vérités (Free eBook - French)](https://aelassas.github.io/books/949812_LCL_LIV_FR.pdf)
+* [Lumières de Vérités (Free eBook - Français)](https://aelassas.github.io/books/949812_LCL_LIV_FR.pdf)
 
 ##### AWARDS
 
