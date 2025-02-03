@@ -8,7 +8,7 @@ I craft innovative and scalable solutions for digital media, leveraging years of
 
 My key strength is creating forward-thinking solutions that adapt across industries, enabling organizations to streamline and automate their work process or data management.
 
-Most of my web projects are built with [React](https://react.dev/). If you want to dive deeper in the [React codebase](https://github.com/facebook/react), read this [paper](https://pomb.us/build-your-own-react/).
+Most of my web projects are built with [React](https://react.dev/) or [Next.js](https://nextjs.org/). If you want to dive deeper in the [React codebase](https://github.com/facebook/react), read this [paper](https://pomb.us/build-your-own-react/).
 
 ##### OPEN-SOURCE PROJECTS
 
