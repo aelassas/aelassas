@@ -32,8 +32,8 @@ I invested significant time and effort into building these open-source projects 
 
 ##### BOOKS
 
-* [Light of Truth (Ebook - English)](https://www.buymeacoffee.com/aelassas/e/233722)
-* [Light of Truth (Ebook - French)](https://www.buymeacoffee.com/aelassas/e/233726)
+* [Light of Truth (Free eBook - English)](https://aelassas.github.io/books/949812_LCL_LIV_EN.pdf)
+* [Lumières de vérités (Free eBook - French)](https://aelassas.github.io/books/949812_LCL_LIV_FR.pdf)
 
 ##### AWARDS
 
