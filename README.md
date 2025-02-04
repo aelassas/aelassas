@@ -37,6 +37,10 @@ These eBooks were previously paid, but now I offer them for free. Enjoy your rea
 * [Light of Truth (Free eBook - English)](https://aelassas.github.io/books/949812_LCL_LIV_EN.pdf): In this book, I explore various philosophies and religions. I examine different theories regarding the origins of the universe, providing a thoughtful perspective on creation and belief systems.
 * [Lumières de Vérités (eBook Gratuit - Français)](https://aelassas.github.io/books/949812_LCL_LIV_FR.pdf): Dans ce livre, j'explore diverses philosophies et religions. J'examine différentes théories concernant les origines de l'univers, offrant une perspective réfléchie sur la création et les systèmes de croyances.
 
+##### GOOD READS
+
+* [Build your own React](https://pomb.us/build-your-own-react/)
+
 ##### AWARDS
 
 * Microsoft Community Contributor - Microsoft - 2011
