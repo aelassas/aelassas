@@ -8,7 +8,7 @@ I craft innovative and scalable solutions for digital media, leveraging years of
 
 My key strength is creating forward-thinking solutions that adapt across industries, enabling organizations to streamline and automate their work process or data management.
 
-##### OPEN-SOURCE PROJECTS
+##### MY OPEN-SOURCE PROJECTS
 
 I am the creator and maintainer of the following open-source projects:
 
@@ -22,7 +22,7 @@ By choosing my solutions, you can launch your own digital marketplace - whether 
 
 I invested significant time and effort into building these open-source projects to make them freely available to the community. If these projects have been helpful in your work, consider supporting their continued development and maintenance. You can contribute through [GitHub Sponsorship](https://github.com/sponsors/aelassas) (one-time or monthly), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://buymeacoffee.com/aelassas). Even a simple star on the GitHub repository helps spread the word and is greatly appreciated.
 
-##### ARTICLES
+##### MY ARTICLES
 
 * [Functional Programming in C#](https://github.com/aelassas/functional-cs)
 * [Functional Programming in TypeScript](https://github.com/aelassas/functional-ts)
@@ -30,7 +30,7 @@ I invested significant time and effort into building these open-source projects 
 * [Build Your Own nodemon in Few Lines of Code](https://github.com/aelassas/watcher)
 * [Microservices using ASP.NET Core, Ocelot, MongoDB and JWT](https://github.com/aelassas/microservices)
 
-##### BOOKS
+##### MY BOOKS
 
 These eBooks were previously paid, but now I offer them for free. Enjoy your reading!
 
@@ -41,7 +41,7 @@ These eBooks were previously paid, but now I offer them for free. Enjoy your rea
 
 * [Build your own React](https://pomb.us/build-your-own-react/)
 
-##### AWARDS
+##### MY AWARDS
 
 * Microsoft Community Contributor - Microsoft - 2011
 * Most Valuable Professional - CodeProject - 2020
