@@ -4,9 +4,11 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/aelassas/aelassas/output/github-snake.svg" />
 </picture>-->
 
+##### ABOUT ME
+
 I craft innovative and scalable solutions for digital media. My comprehensive experience spans web, mobile and desktop development, with particular focus on media and digital asset management systems.
 
-My key strength is creating forward-thinking solutions that adapt across industries, enabling organizations to streamline and automate their work process or data management.
+My key strength lies in creating forward-thinking solutions that adapt across industries, enabling organizations to streamline and automate their workflows or data management processes.
 
 ##### MY OPEN-SOURCE PROJECTS
 
@@ -20,7 +22,7 @@ I am the creator and maintainer of the following open-source projects:
 
 By choosing my solutions, you can launch your own digital marketplace - whether it's an ecommerce website, car rental platform, or property rental system - with the Docker-based setups provided. Each solution comes with comprehensive documentation, Stripe and PayPal payment integration, and runs efficiently on just 1GB of RAM. Deploy your business for less than $5/month on cloud providers like [Hetzner](https://www.hetzner.com/cloud/) or [DigitalOcean](https://www.digitalocean.com/pricing/droplets), making these platforms perfect for entrepreneurs seeking scalable and cost-effective solutions.
 
-If these projects have been helpful in your work or research, consider supporting their continued development and maintenance. You can contribute through [GitHub Sponsorship](https://github.com/sponsors/aelassas) (one-time or monthly), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://buymeacoffee.com/aelassas). Even a simple star on the GitHub repository helps spread the word and is greatly appreciated.
+If these projects have been valuable to your work or research, please consider supporting their ongoing development and maintenance. You can contribute through [GitHub Sponsorship](https://github.com/sponsors/aelassas) (one-time or monthly), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://buymeacoffee.com/aelassas). Even a simple star on the GitHub repository helps spread the word and is greatly appreciated.
 
 ##### MY ARTICLES
 
@@ -34,8 +36,8 @@ If these projects have been helpful in your work or research, consider supportin
 
 These eBooks were previously paid, but now I offer them for free. Enjoy your reading!
 
-* [Light of Truth (Free eBook - English)](https://aelassas.github.io/books/949812_LCL_LIV_EN.pdf): In this book, I explore various philosophies and religions. I examine different theories regarding the origins of the universe, providing a thoughtful perspective on creation and belief systems.
-* [Lumières de Vérités (eBook Gratuit - Français)](https://aelassas.github.io/books/949812_LCL_LIV_FR.pdf): Dans ce livre, j'explore diverses philosophies et religions. J'examine différentes théories concernant les origines de l'univers, offrant une perspective réfléchie sur la création et les systèmes de croyances.
+* [Light of Truth (Free eBook - English)](https://aelassas.github.io/books/949812_LCL_LIV_EN.pdf): In this book, I delve into various philosophies and religions, exploring different theories on the origins of the universe. I offer a reflective and thoughtful perspective on creation and belief systems, encouraging readers to consider and reflect these fundamental questions.
+* [Lumières de Vérités (eBook Gratuit - Français)](https://aelassas.github.io/books/949812_LCL_LIV_FR.pdf): Dans ce livre, j'explore diverses philosophies et religions, en examinant différentes théories sur les origines de l'univers. J'offre une perspective réfléchie et approfondie sur la création et les systèmes de croyances, encourageant les lecteurs à considérer et à réfléchir sur ces questions fondamentales.
 
 ##### GOOD READS
 
