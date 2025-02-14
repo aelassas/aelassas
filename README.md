@@ -36,9 +36,9 @@ If these projects have been valuable to your work or research, please consider s
 
 These books were once available for purchase, but I now offer them for free so that everyone can benefit from their insights. Feel free to download, read, and reflect on the ideas presented. I hope they provide you with knowledge and inspiration!  
 
-* **[Light of Truth (English - PDF)](https://aelassas.github.io/books/949812_LCL_LIV_EN.pdf)**: This book takes an in-depth look at different worldviews and perspectives, examining various theories about the origins of the universe and the nature of existence. Through logical reasoning and analysis, it offers a compelling perspective on creation and the purpose of life, encouraging readers to reflect on profound and essential questions.
+* [Light of Truth (English - PDF)](https://aelassas.github.io/books/949812_LCL_LIV_EN.pdf): This book takes an in-depth look at different worldviews and perspectives, examining various theories about the origins of the universe and the nature of existence. Through logical reasoning and analysis, it offers a compelling perspective on creation and the purpose of life, encouraging readers to reflect on profound and essential questions.
 
-* **[Lumières de Vérités (Français - PDF)](https://aelassas.github.io/books/949812_LCL_LIV_FR.pdf)**: Ce livre explore différentes conceptions du monde en analysant les théories sur l'origine de l'univers et la nature de l'existence. Grâce à une approche logique et approfondie, il propose une réflexion stimulante sur la création et le but de la vie, incitant les lecteurs à méditer sur les grandes questions de l'existence.  
+* [Lumières de Vérités (Français - PDF)](https://aelassas.github.io/books/949812_LCL_LIV_FR.pdf): Ce livre explore différentes conceptions du monde en analysant les théories sur l'origine de l'univers et la nature de l'existence. Grâce à une approche logique et approfondie, il propose une réflexion stimulante sur la création et le but de la vie, incitant les lecteurs à méditer sur les grandes questions de l'existence.  
 
 📖 **Download now and start your journey of discovery!**
 
