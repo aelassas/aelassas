@@ -36,7 +36,7 @@ If these projects have been valuable to your work or research, please consider s
 
 These books were once available for purchase, but I now offer them for free so that everyone can benefit from their insights.
 
-It took me so many years of searching, questioning, and learning to arrive at the truth I share in these books. Like many, I was confronted with deep questions about existence and purpose, I sought answers through reason and study, determined to find a foundation that was both logical and undeniably true. Whether you approach this with doubt or conviction, I invite you to explore the arguments presented with an open mind. The truth is there for those willing to seek it.
+It took me so many years of searching, reading, questioning, and learning to arrive at the truth I share in these books. Like many, I was confronted with deep questions about existence and purpose, I sought answers through reason and study, determined to find a foundation that was both logical and undeniably true. Whether you approach this with doubt or conviction, I invite you to explore the arguments presented with an open mind. The truth is there for those willing to seek it.
 
 Feel free to download, read, and reflect on the ideas presented. I hope they provide you with knowledge and inspiration!  
 
