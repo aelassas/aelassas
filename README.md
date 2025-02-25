@@ -10,7 +10,7 @@ I craft innovative and scalable solutions for digital media. My comprehensive ex
 
 My key strength lies in creating forward-thinking solutions that adapt across industries, enabling organizations to streamline and automate their work process or data management.
 
-##### MY OPEN-SOURCE PROJECTS
+##### OPEN-SOURCE PROJECTS
 
 I am the creator and maintainer of the following open-source projects:
 
@@ -24,7 +24,7 @@ By choosing my solutions, you can launch your own digital marketplace - whether 
 
 If these projects have been valuable to your work or research, please consider supporting their ongoing development and maintenance. You can contribute through [GitHub Sponsorship](https://github.com/sponsors/aelassas) (one-time or monthly), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://buymeacoffee.com/aelassas). Even a simple star on the GitHub repository helps spread the word and is greatly appreciated.
 
-##### MY ARTICLES
+##### ARTICLES
 
 * [Functional Programming in C#](https://github.com/aelassas/functional-cs)
 * [Functional Programming in TypeScript](https://github.com/aelassas/functional-ts)
@@ -32,15 +32,11 @@ If these projects have been valuable to your work or research, please consider s
 * [Build Your Own nodemon in Few Lines of Code](https://github.com/aelassas/watcher)
 * [Microservices using ASP.NET Core, Ocelot, MongoDB and JWT](https://github.com/aelassas/microservices)
 
-##### MY BOOKS
+##### BOOKS
 
 This book was once available for purchase, but I now offer it for free so that everyone can benefit from its insights.
 
-It took me so many years of searching, reading, questioning, and learning to arrive at the truth I share in this book. Like many, I was confronted with deep questions about existence and purpose, I sought answers through reason and study, determined to find a foundation that was both logical and undeniably true. Whether you approach this with doubt or conviction, I invite you to explore the arguments presented with an open mind. The truth is there for those willing to seek it.
-
-Feel free to download, read, and reflect on the ideas presented. I hope they provide you with knowledge and inspiration!  
-
-* [Light of Truth (English - PDF)](https://aelassas.github.io/books/949812_LCL_LIV_EN.pdf): This book takes an in-depth look at different worldviews and perspectives, examining various theories about the origins of the universe and the nature of existence. Through logical reasoning and analysis, it offers a compelling perspective on creation and the purpose of life, encouraging readers to reflect on profound and essential questions.
+* [Light of Truth (English - PDF)](https://aelassas.github.io/books/949812_LCL_LIV_EN.pdf): This book takes an in-depth look at different worldviews and perspectives, examining various theories about the origins of the universe and the nature of existence. Through logical reasoning and analysis, it offers a compelling perspective on creation and the purpose of life, encouraging readers to reflect on profound and essential questions. Like many, I was confronted with deep questions about existence and purpose, I sought answers through reason and study, determined to find a foundation that was both logical and undeniably true. Whether you approach this with doubt or conviction, I invite you to explore the arguments presented with an open mind. The truth is there for those willing to seek it.
 
 📖 **[Download now and start your journey of discovery!](https://aelassas.github.io/books/949812_LCL_LIV_EN.pdf)**
 
@@ -48,7 +44,7 @@ Feel free to download, read, and reflect on the ideas presented. I hope they pro
 
 * [Build your own React](https://pomb.us/build-your-own-react/)
 
-##### MY AWARDS
+##### AWARDS
 
 * Microsoft Community Contributor - Microsoft - 2011
 * Most Valuable Professional - CodeProject - 2020
