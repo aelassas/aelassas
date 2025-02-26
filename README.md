@@ -36,9 +36,13 @@ If these projects have been valuable to your work or research, please consider s
 
 This book was once available for purchase, but I now offer it for free so that everyone can benefit from its insights.
 
-* [Light of Truth (English - PDF)](https://aelassas.github.io/books/949812_LCL_LIV_EN.pdf): This book takes an in-depth look at different worldviews and perspectives, examining various theories about the origins of the universe and the nature of existence. Through logical reasoning and analysis, it offers a compelling perspective on creation and the purpose of life, encouraging readers to reflect on profound and essential questions. Like many, I was confronted with deep questions about existence and purpose, I sought answers through reason and study, determined to find a foundation that was both logical and undeniably true. Whether you approach this with doubt or conviction, I invite you to explore the arguments presented with an open mind. The truth is there for those willing to seek it.
+* [Light of Truth (English - PDF)](https://bit.ly/3ER13zm): This book takes an in-depth look at different worldviews and perspectives, examining various theories about the origins of the universe and the nature of existence. Through logical reasoning and analysis, it offers a compelling perspective on creation and the purpose of life, encouraging readers to reflect on profound and essential questions. Like many, I was confronted with deep questions about existence and purpose, I sought answers through reason and study, determined to find a foundation that was both logical and undeniably true. Whether you approach this with doubt or conviction, I invite you to explore the arguments presented with an open mind. The truth is there for those willing to seek it.
 
-📖 **[Download now and start your journey of discovery!](https://aelassas.github.io/books/949812_LCL_LIV_EN.pdf)**
+📖 **[Download now and start your journey of discovery!](https://bit.ly/3ER13zm)**
+
+You can also download it by scanning the QR code below.
+
+<img alt="" src="https://aelassas.github.io/content/bit.ly_3ER13zm.png" width="180">
 
 ##### GOOD READS
 
