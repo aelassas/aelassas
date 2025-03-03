@@ -45,7 +45,9 @@ Feel free to download, read, and reflect on the ideas presented. I hope they pro
 📖 **[Download now and start your journey of discovery!](https://bit.ly/3ER13zm)**
 -->
 
+<!--
 You can also download the book in English by scanning the QR code below.
+-->
 
 <img alt="" src="https://aelassas.github.io/content/bit.ly_3ER13zm.png" width="180">
 
