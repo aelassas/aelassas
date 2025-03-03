@@ -47,9 +47,9 @@ Feel free to download, read, and reflect on the ideas presented. I hope they pro
 
 <!--
 You can also download the book in English by scanning the QR code below.
--->
 
 <img alt="" src="https://aelassas.github.io/content/bit.ly_3ER13zm.png" width="180">
+-->
 
 <!--
 You can also download the book in French by scanning the QR code below.
