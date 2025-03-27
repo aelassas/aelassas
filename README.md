@@ -4,11 +4,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/aelassas/aelassas/output/github-snake.svg" />
 </picture>-->
 
+<!--
 ##### ABOUT ME
 
 I craft innovative and scalable solutions for digital media. My comprehensive experience spans web, mobile and desktop development, with particular focus on media and digital asset management systems.
 
 My key strength lies in creating forward-thinking solutions that adapt across industries, enabling organizations to streamline and automate their work process or data management.
+-->
 
 ##### OPEN-SOURCE PROJECTS
 
