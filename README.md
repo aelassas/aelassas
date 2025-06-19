@@ -24,9 +24,23 @@ I am the creator and maintainer of the following open-source projects:
 
 By choosing my solutions, you can launch your own digital marketplace - whether it's an ecommerce website, car rental platform, or property rental system. Each solution comes with comprehensive documentation, Stripe and PayPal payment integration, and runs efficiently on just 1GB of RAM. Deploy your business for less than $5/month on cloud providers like [Hetzner](https://www.hetzner.com/cloud/) or [DigitalOcean](https://www.digitalocean.com/pricing/droplets), making these platforms perfect for entrepreneurs seeking scalable and cost-effective solutions.
 
-If these projects have been valuable in your work or research, consider supporting their ongoing development and maintenance. You can contribute through [GitHub Sponsorship](https://github.com/sponsors/aelassas) (one-time or monthly), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://buymeacoffee.com/aelassas). Even a simple star on the GitHub repository helps spread the word, increases visibility and is greatly appreciated.
+##### SUPPORT
 
-<!--<a href="https://github.com/sponsors/aelassas"><img src="https://aelassas.github.io/content/github-sponsor-button.png" alt="GitHub" width="210"></a>-->
+If **BookCars**, **Wexflow**, or any of my projects have helped you in your work, saved you time, or inspired you in any way, please consider supporting their ongoing development. Open-source software requires time, effort, and resources to maintain—your support helps keep the projects alive, up-to-date, and accessible to everyone.
+
+You can contribute in several ways:
+
+- **⭐ Star the repository** – It helps increase visibility and shows your appreciation.
+- **💬 Share the project** – Recommend it to colleagues, communities, or on social media.
+- **☕ Donate or sponsor** – If you'd like to financially support the development, you can do so via:
+
+  - [GitHub Sponsors](https://github.com/sponsors/aelassas) (one-time or monthly)
+  - [PayPal](https://www.paypal.me/aelassaspp)
+  - [Buy Me a Coffee](https://www.buymeacoffee.com/aelassas)
+
+Every contribution, big or small, makes a difference and motivates continued work on features, bug fixes, and new ideas.
+
+<a href="https://github.com/sponsors/aelassas"><img src="https://aelassas.github.io/content/github-sponsor-button.png" alt="GitHub" width="210"></a>
 <a href="https://www.paypal.me/aelassaspp"><img src="https://aelassas.github.io/content/paypal-button-v2.png" alt="PayPal" width="208"></a>
 <a href="https://www.buymeacoffee.com/aelassas"><img src="https://aelassas.github.io/content/bmc-button.png" alt="Buy Me A Coffee" height="38"></a>
 
