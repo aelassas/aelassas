@@ -19,11 +19,11 @@ I am the creator and maintainer of the following open-source projects:
 * [Wexflow](https://github.com/aelassas/wexflow): Workflow Engine and Automation Platform
 * [BookCars](https://github.com/aelassas/bookcars): Car Rental Platform with Mobile App
 * [Movin' In](https://github.com/aelassas/movinin): Rental Property Management Platform with Mobile App
-* [wexCommerce](https://github.com/aelassas/wexcommerce): Single Vendor Marketplace
+* [wexCommerce](https://github.com/aelassas/wexcommerce): Single-Vendor Marketplace
 <!-- * [Wexstream](https://github.com/aelassas/wexstream): Video Conferencing Platform -->
-
+<!--
 By choosing my solutions, you can launch your own digital marketplace - whether it's an ecommerce website, car rental platform, or property rental system. Each solution comes with comprehensive documentation, Stripe and PayPal payment integration, and runs efficiently on just 1GB of RAM. Deploy your business for less than $5/month on cloud providers like [Hetzner](https://www.hetzner.com/cloud/) or [DigitalOcean](https://www.digitalocean.com/pricing/droplets), making these platforms perfect for entrepreneurs seeking scalable and cost-effective solutions.
-
+-->
 ##### SUPPORT
 
 If BookCars, Wexflow, or any of my projects have helped you, saved you time, or inspired you in any way, please consider supporting their future growth and maintenance. You can show your support by starring the repository, sharing the project, or making a donation via [GitHub Sponsors](https://github.com/sponsors/aelassas) (one-time or monthly), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://www.buymeacoffee.com/aelassas). Every bit of support helps keep the projects active, maintained, and accessible to all.
