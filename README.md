@@ -30,7 +30,7 @@ By choosing my solutions, you can launch your own digital marketplace - whether 
 ##### SUPPORT
 -->
 
-If BookCars, Wexflow, or any of my projects have helped you, saved you time, or inspired you in any way, please consider supporting their future growth and maintenance. You can show your support by starring the repository, sharing the project, or making a donation via [GitHub Sponsors](https://github.com/sponsors/aelassas) (one-time or monthly), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://www.buymeacoffee.com/aelassas). Every bit of support helps keep the projects active, maintained, and accessible to all.
+If BookCars, Wexflow, Servy, or any of my projects have helped you, saved you time, or inspired you in any way, please consider supporting their future growth and maintenance. You can show your support by starring the repository, sharing the project, or making a donation via [GitHub Sponsors](https://github.com/sponsors/aelassas) (one-time or monthly), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://www.buymeacoffee.com/aelassas). Every bit of support helps keep the projects active, maintained, and accessible to all.
 
 <!-- <a href="https://github.com/sponsors/aelassas"><img src="https://aelassas.github.io/content/github-sponsor-button.png" alt="GitHub" width="210"></a> -->
 <!--
