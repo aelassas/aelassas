@@ -49,9 +49,9 @@ If BookCars, Wexflow, Servy, or any of my projects have helped you, saved you ti
 ##### BOOKS
 
 This book was once available for purchase, but I now offer it for free so that everyone can benefit from its insights.
-
+<!--
 Feel free to download, read, and reflect on the ideas presented. I hope they provide you with knowledge and inspiration!
-
+-->
 <!--EN: https://bit.ly/3ER13zm -->
 <!--FR: https://bit.ly/3DamgnA -->
 <!--
