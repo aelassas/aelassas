@@ -54,8 +54,13 @@ Feel free to download, read, and reflect on the ideas presented. I hope they pro
 
 <!--EN: https://bit.ly/3ER13zm -->
 <!--FR: https://bit.ly/3DamgnA -->
+<!--
 * [Light of truth (English - PDF)](https://2ly.link/27oLb): This book takes an in-depth look at different worldviews and perspectives, examining various theories about the origins of the universe and the nature of existence. Through logical reasoning and analysis, it offers a compelling perspective on creation and the purpose of life, encouraging readers to reflect on profound and essential questions. Like many, I was confronted with deep questions about existence and purpose, I sought answers through reason and study, determined to find a foundation that was both logical and undeniably true. Whether you approach this with doubt or conviction, I invite you to explore the arguments presented with an open mind. The truth is there for those willing to seek it.
 * [Lumières de vérités (Français - PDF)](https://2ly.link/27oLd): Ce livre explore différentes conceptions du monde en analysant diverses théories sur l'origine de l'univers et la nature de l'existence. À travers un raisonnement logique et une analyse rigoureuse, il propose une réflexion approfondie sur la création et le but de la vie, incitant les lecteurs à méditer sur des questions profondes et essentielles. Comme beaucoup, j'ai été confronté à des questions profondes sur l'existence et le sens de la vie. J'ai cherché des réponses par la raison et l'étude, déterminé à trouver une base à la fois logique et indéniablement vraie. Que vous abordiez ce sujet avec doute ou conviction, je vous invite à explorer les arguments présentés avec un esprit ouvert. La vérité est accessible à ceux qui sont prêts à la chercher.
+-->
+
+* [Light of truth (English - PDF)](https://2ly.link/27oLb): This book explores different worldviews and theories about the universe and existence. Through logical reasoning, it examines creation and the purpose of life, inviting readers to reflect and seek truth with an open mind.
+* [Lumières de vérités (Français - PDF)](https://2ly.link/27oLd): Ce livre explore différentes conceptions du monde et théories sur l'origine de l'univers et la nature de l'existence. Par un raisonnement logique, il invite les lecteurs à réfléchir sur la création, le but de la vie et à chercher la vérité avec un esprit ouvert.
 
 <!--
 📖 **[Download now and start your journey of discovery!](https://bit.ly/3ER13zm)**
