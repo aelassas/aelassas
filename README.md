@@ -38,7 +38,7 @@ If BookCars, Wexflow, Servy, or any of my projects have helped you, saved you ti
 <a href="https://www.buymeacoffee.com/aelassas"><img src="https://aelassas.github.io/content/bmc-button.png" alt="Buy Me A Coffee" height="38"></a>
 -->
 
-##### ARTICLES
+##### WRITE-UPS
 
 * [Functional Programming in C#](https://github.com/aelassas/functional-cs)
 * [Functional Programming in TypeScript](https://github.com/aelassas/functional-ts)
