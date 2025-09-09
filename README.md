@@ -73,6 +73,7 @@ You can also download the book in French by scanning the QR code below.
 <img alt="" src="https://aelassas.github.io/content/bit.ly_3DamgnA.png" width="180">
 -->
 
+<!--
 ##### GOOD READS
 
 * [Build your own React](https://pomb.us/build-your-own-react/)
@@ -84,6 +85,7 @@ You can also download the book in French by scanning the QR code below.
 * Most Valuable Professional - CodeProject - 2023
 * Most Valuable Professional - CodeProject - 2024
 * Top JavaScript Author - dev.to - 2024
+-->
 
 <!--
 * Microsoft Community Contributor - Microsoft - 2011
@@ -102,4 +104,4 @@ You can also download the book in French by scanning the QR code below.
 -->
 
 #
-If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or [LinkedIn](https://www.linkedin.com/in/aelassas/).
+If you'd like to discuss an opportunity, feel free to [contact me](https://aelassas.github.io/#contact).
