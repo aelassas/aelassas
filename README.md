@@ -14,7 +14,7 @@ My key strength lies in creating forward-thinking solutions that adapt across in
 
 ##### ABOUT ME
 
-When I repeat something twice, it deserves automation.
+When I repeat something twice, I think automation.
 
 ##### OPEN-SOURCE PROJECTS
 
