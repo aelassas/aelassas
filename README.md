@@ -12,6 +12,10 @@ I craft innovative and scalable solutions for digital media. My comprehensive ex
 My key strength lies in creating forward-thinking solutions that adapt across industries, enabling organizations to streamline and automate their work process or data management.
 -->
 
+##### ABOUT ME
+
+When I repeat something twice, it deserves automation.
+
 ##### OPEN-SOURCE PROJECTS
 
 I am the creator and maintainer of the following open-source projects:
