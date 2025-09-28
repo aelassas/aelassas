@@ -10,11 +10,13 @@
 I craft innovative and scalable solutions for digital media. My comprehensive experience spans web, mobile and desktop development, with particular focus on media and digital asset management systems.
 
 My key strength lies in creating forward-thinking solutions that adapt across industries, enabling organizations to streamline and automate their work process or data management.
+
+When I do the same thing twice, I think automation.
 -->
 
 ##### ABOUT ME
 
-When I do the same thing twice, I think automation.
+Building what I wish existed for everyone.
 
 ##### OPEN-SOURCE PROJECTS
 
