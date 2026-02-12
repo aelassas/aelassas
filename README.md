@@ -1,4 +1,8 @@
+If Servy, BookCars, Wexflow, or any of my projects have helped you, saved you time, or inspired you, you can support them by starring the repository, sharing the project, or contributing via [GitHub Sponsors](https://github.com/sponsors/aelassas), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://www.buymeacoffee.com/aelassas). Every bit of support helps keep these projects active, maintained, and accessible to everyone.
+
+<!--
 I no longer provide custom development services for my GitHub projects such as bookcars, movinin, wexcommerce, or wexflow. I do, however, provide installation assistance and guidance. These projects are production-ready and are intended as starting points for anyone looking to build a car rental platform, a property rental platform, a single-vendor marketplace, or a workflow engine. I continue to maintain these projects by fixing bugs, updating dependencies, and adding new features. Please note that I no longer take requests for custom development for my GitHub projects via email due to the volume of inquiries I receive. If any of my projects have helped you, saved you time, or inspired you in any way, you can show your support through [GitHub Sponsors](https://github.com/sponsors/aelassas), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://www.buymeacoffee.com/aelassas).
+-->
 
 <!--
 ##### BOOKS
