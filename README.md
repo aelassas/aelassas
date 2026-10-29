@@ -1,1 +1,7 @@
-If my projects have helped you, saved you hours of development time, or powered your production workflows, supporting their maintenance makes a direct impact. Building and maintaining software, publishing signed releases, and delivering security updates takes dedicated time and financial resources. You can help keep these projects active, independent, and free for everyone by becoming a sponsor on [GitHub Sponsors](https://github.com/sponsors/aelassas), making a contribution via [PayPal](https://www.paypal.me/aelassaspp), [Liberapay](https://liberapay.com/aelassas/) or [Buy Me a Coffee](https://www.buymeacoffee.com/aelassas), or simply starring and sharing the repositories.
+### Support Open Source
+
+If my projects have helped you, saved you time, or supported your business, please consider giving something back. Maintaining open-source software takes significant time and effort, from ongoing development and bug fixes to security updates and releases. Every contribution encourages me to continue developing and maintaining these projects, keeping them active, independent, and free for everyone.
+
+You can support my work through [GitHub Sponsors](https://github.com/sponsors/aelassas), [Buy Me a Coffee](https://www.buymeacoffee.com/aelassas), [PayPal](https://www.paypal.me/aelassaspp), or [Liberapay](https://liberapay.com/aelassas/).
+
+If you cannot contribute financially, sharing the projects, reporting bugs, submitting pull requests, or simply saying thank you is also greatly appreciated.
